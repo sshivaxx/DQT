@@ -1,0 +1,6 @@
+.idea/
+.venv/
+.vscode
+# .pylintrc
+.mypy_cache
+*__pycache__*
